@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// ALGORITMO O(N^2)
+
 int main() {
     int N;
     cin >> N;
