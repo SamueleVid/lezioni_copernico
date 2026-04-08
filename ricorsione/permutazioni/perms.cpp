@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Se sei interessato, cerca 
+
 vector<int> perm;
 vector<int> gia_usato;
 
@@ -31,9 +33,7 @@ void create_perm(int N, int L) {
 
 int main() {
     int N; cin >> N;
-    
     gia_usato.assign(N, 0);
-
     // stampo tutte le permutazioni di 1 ... N
     create_perm(N, 0);
 }
