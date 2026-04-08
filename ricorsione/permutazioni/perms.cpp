@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Se sei interessato, cerca 
+// Argomento: Backtracking
 
 vector<int> perm;
 vector<int> gia_usato;
