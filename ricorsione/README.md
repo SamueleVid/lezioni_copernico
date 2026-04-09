@@ -7,3 +7,8 @@
 - Backtracking
 
 ### Esercizi:
+- https://training.olinfo.it/algobadge?category=rec
+- https://cses.fi/problemset/task/2165
+- https://cses.fi/problemset/task/1625
+- https://cses.fi/problemset/task/1624
+- Problemi proposti da USACO Guide
